@@ -11,7 +11,7 @@ links:
     description: Learn about Next.js in an interactive course with quizzes!
     url: 'https://nextjs.org/learn?utm_source=create-next-app'
   - header: Templates
-    description: Explore the Next.js 13 playground.
+    description: Explore the Next.js 13 playground Now if you please.
     url: 'https://vercel.com/templates?framework=next.js'
   - header: Deploy
     description: Instantly deploy your Next.js site to a shareable URL with Vercel.
